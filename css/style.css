@@ -480,5 +480,55 @@ font-size: 16px;
 line-height: 19px;
 }
 
+.feedback__btn:hover{
+    color: #C5AC2D;
+    background: #fefefe;
+    border: 1px solid #C5AC2D;
+ }
+
+.footer{
+   padding: 100px 0 24px;
+   background-color: #332208;
+   
+}
+.footer__top{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-bottom: 21px;
+}
+
+.footer__social{
+   list-style: none;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.footer__social-item{
+   margin: 0 15px;
+}
+
+.app__item{
+   background-color: #C5AC2D;
+   text-align: center;
+}
+
+.app__item-btn{
+  
+  font-size: 40px;
+   text-align: center;
+  
+
+}
+.app__text{
+   font-size: 40px;
+   text-align: center;
+}
+
+
+
+
+
+
 
 
